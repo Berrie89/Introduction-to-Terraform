@@ -27,6 +27,7 @@ The objective of this project is to create an EC2 instance and AMI using terrafo
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/6b494f32-7b72-4dc2-b88f-0d2a6516ff15" />
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4b52e8f9-53e1-418e-bda1-2c9e40a5fa43" />
+* Lastly, I used the terraform destroy command to terminate the EC2 instance.Find below.
   
 
   
