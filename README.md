@@ -14,4 +14,4 @@ The objective of this project is to create an EC2 instance and AMI using terrafo
 * I configured the aws CLI using access key that was created in the aws console. The command I used was aws configure.
 * I created a folder called learningTerraform where all configuration files was saved.
 * I created a file called main.tf and wrote the configuration below.
-* 
+  <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/111b1a67-2407-4cf1-badc-e1a4df76770d" />
