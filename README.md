@@ -15,3 +15,4 @@ The objective of this project is to create an EC2 instance and AMI using terrafo
 * I created a folder called learningTerraform where all configuration files was saved.
 * I created a file called main.tf and wrote the configuration below.
   <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/111b1a67-2407-4cf1-badc-e1a4df76770d" />
+  <img width="453" height="199" alt="Image" src="https://github.com/user-attachments/assets/34b77a78-f0d4-43fe-857b-a43487c82896" />
