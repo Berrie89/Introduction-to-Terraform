@@ -20,7 +20,9 @@ The objective of this project is to create an EC2 instance and AMI using terrafo
   <img width="627" height="289" alt="Image" src="https://github.com/user-attachments/assets/77b3b468-aefb-45a7-918e-b972398e8e19" />
 * I used the terraform validate command to ensure all configurations are correct. Find below.
   <img width="647" height="59" alt="Image" src="https://github.com/user-attachments/assets/e3cc4049-71c4-44b1-8b82-56a3c125a091" />
-* I used the terraform plan command to create an execution plan. Find below.
+* I used the terraform plan command to create an execution plan. 
+* I used the terraform apply command to provision resources. Find below.
+
   
   
   
