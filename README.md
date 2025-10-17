@@ -28,6 +28,11 @@ The objective of this project is to create an EC2 instance and AMI using terrafo
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4b52e8f9-53e1-418e-bda1-2c9e40a5fa43" />
 * Lastly, I used the terraform destroy command to terminate the EC2 instance.Find below.
+<img width="647" height="59" alt="Image" src="https://github.com/user-attachments/assets/6c37ea44-6ddf-4c22-a164-989fa6872b65" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e9f2c90f-b2ad-40b6-8c45-3e0ad817d323" />
+## Challenges I faced whilst doing this project.
+I created the keypair in another region. This resulted into an error. I corrected the error by switching to the right region.
   
 
   
