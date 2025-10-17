@@ -22,6 +22,7 @@ The objective of this project is to create an EC2 instance and AMI using terrafo
   <img width="647" height="59" alt="Image" src="https://github.com/user-attachments/assets/e3cc4049-71c4-44b1-8b82-56a3c125a091" />
 * I used the terraform plan command to create an execution plan. 
 * I used the terraform apply command to provision resources. Find below.
+  <img width="647" height="59" alt="Image" src="https://github.com/user-attachments/assets/cca42eec-5686-48da-9741-4fc99c5c8213" />
 
   
   
